@@ -44,9 +44,16 @@ int _atoi(char *s)
 			break;
 		s++;
 		}
+<<<<<<< HEAD
 
 		if (sign < 0)
 		total = (-total);
 			return (total);
 }
+=======
+>>>>>>> 5bc64e1dc0f1dce86b9a123069027c9187c08afe
 
+		if (sign < 0)
+		total = (-total);
+			return (total);
+}
